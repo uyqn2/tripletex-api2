@@ -1,4 +1,7 @@
 # API changelog
+## 2.69.23 (2022-09-02)
+- Added fields requiresDepartment and requiresProject to AccountDTO
+
 ## 2.69.17 (2022-04-08)
 - Added field saftCode to ledger/account POST , GET and PUT
 
