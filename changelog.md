@@ -1,4 +1,12 @@
 # API changelog
+## 2.70.49 (2023-11-21)
+- Added fields to PostingDTO and HistoricalPostingDTO
+  - quantityAmount1
+  - quantityType1
+  - quantityAmount2
+  - quantityType2
+- Added fields quantityType1 and quantityType2 to AccountDTO
+
 ## 2.69.23 (2022-09-02)
 - Added fields requiresDepartment and requiresProject to AccountDTO
 
